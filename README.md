@@ -18,3 +18,5 @@
 [[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf) Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis[[Code]](https://github.com/j1a0m0e4sNTU/3dgcn)
 
 [[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_View-GCN_View-Based_Graph_Convolutional_Network_for_3D_Shape_Analysis_CVPR_2020_paper.pdf) View-GCN: View-based Graph Convolutional Network for 3D Shape Analysis [[Code]](https://github.com/weixmath/view-GCN)
+
+[[CVPR]](https://arxiv.org/pdf/2002.10876.pdf) PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [[Code]](https://github.com/liruihui/PointAugment/)
