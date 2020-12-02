@@ -4,6 +4,8 @@
 ## 2017
 [[NIPS]](https://proceedings.neurips.cc/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf)Pointnet++: Deep hierarchical feature learning on point sets in a metric space [[Code]](https://github.com/erikwijmans/Pointnet2_PyTorch)
 
+[[CVPR]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Riegler_OctNet_Learning_Deep_CVPR_2017_paper.pdf) OctNet: Learning Deep 3D Representations at High Resolutions. [[Code]](https://github.com/griegler/octnet)
+
 ## 2018
 
 
