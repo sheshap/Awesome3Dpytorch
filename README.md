@@ -22,3 +22,9 @@
 [[CVPR]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_View-GCN_View-Based_Graph_Convolutional_Network_for_3D_Shape_Analysis_CVPR_2020_paper.pdf) View-GCN: View-based Graph Convolutional Network for 3D Shape Analysis [[Code]](https://github.com/weixmath/view-GCN)
 
 [[CVPR]](https://arxiv.org/pdf/2002.10876.pdf) PointAugment: an Auto-Augmentation Framework for Point Cloud Classification. [[Code]](https://github.com/liruihui/PointAugment/)
+
+## 2021
+[[CVPR]] (https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf)PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on
+Point Clouds [[Code]] (https://github.com/CVMI-Lab/PAConv)
+
+[[CVPR]] (https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) Regularization Strategy for Point Cloud via Rigidly Mixed Sample [[Code]] (https://github.com/dogyoonlee/RSMix)
